@@ -1,0 +1,6 @@
+{
+  "name": "Add Issues to Project Backlog",
+  "description": "Automatically adds new issues to the org project with Backlog status",
+  "iconName": "octicon-issue-opened",
+  "categories": ["automation"]
+}
